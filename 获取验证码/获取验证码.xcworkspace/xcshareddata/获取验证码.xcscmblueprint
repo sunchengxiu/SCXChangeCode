@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "35D471F6451A2BB4124B7F2565AA7EBE7F21B620",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "996D5C1F9BB3B09AE50550A95386579B67E09EEF" : 9223372036854775807,
+    "35D471F6451A2BB4124B7F2565AA7EBE7F21B620" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A7E10B38-C33C-424E-A4EB-D4BDABF64D25",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "996D5C1F9BB3B09AE50550A95386579B67E09EEF" : "",
+    "35D471F6451A2BB4124B7F2565AA7EBE7F21B620" : "%E9%AA%8C%E8%AF%81%E7%A0%81\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "获取验证码",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "获取验证码.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/DaPai\/getCodeTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35D471F6451A2BB4124B7F2565AA7EBE7F21B620"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/DaPai\/getCodeTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "996D5C1F9BB3B09AE50550A95386579B67E09EEF"
+    }
+  ]
+}

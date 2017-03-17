@@ -1,0 +1,28 @@
+//
+//  PrefixHeader.pch
+//  获取验证码
+//
+//  Created by 孙承秀 on 2017/2/22.
+//  Copyright © 2017年 孙承秀. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Masonry.h>
+
+#import "Header.h"
+
+#define screen_width [UIScreen mainScreen].bounds.size.width
+
+#define screen_height [UIScreen mainScreen].bounds.size.height
+
+#define charCount 4
+
+#define kLineWidth 1.0
+
+#define kLineCount 4
+
+#define kRandomColor [UIColor colorWithRed:((arc4random() % 255) / 256.0) green:((arc4random() % 255) / 256.0) blue:((arc4random() % 255) / 256.0) alpha:1.0]
+
+#endif /* PrefixHeader_pch */

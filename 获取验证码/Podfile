@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target '获取验证码' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+    pod 'Masonry', '~> 1.0.2'
+  # Pods for 获取验证码
+
+  target '获取验证码Tests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target '获取验证码UITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
